@@ -1,6 +1,5 @@
-# play.identity
+# Identity
 
-Play Economy Identity microservice
 
 ## Add the GitHub package source
 
